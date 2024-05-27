@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "Vishaal Gaddipati",
     "description": "",
-    "start_url": "",
+    "start_url": "./",
     "display": "standalone",
     "background_color": "white",
     "theme_color": "blue",
